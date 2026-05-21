@@ -9,7 +9,7 @@ This app was developed for the SAP STAR Program Hackathon 2025
 ## Developers and Collaborators
 - Mustafa Bookwala (https://github.com/bookwalamustafa)
 - Adyan Chowdhury (https://github.com/adyan1025)
-- Lucas Loepke
+- Lucas Loepke (https://github.com/lucasloepke)
 - Nyle Coleman
 
 <img width="959" height="497" alt="trust-circle-1" src="https://github.com/user-attachments/assets/8c4b2f24-2dff-4182-af54-be9484224d25" />
